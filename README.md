@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+templates
+# Templates
 
-Based on "ABC" at https://www.abc.com/
+Based on "Find Cross Env Examples and Templates" at https://codesandbox.io/examples/package/cross-env
+
+*Use this online cross-env playground to view and fork cross-env example apps and templates on CodeSandbox. Click any example below to run it instantly or find templates that can be used as a pre-built solution!*
 
 ## 100 - Introduction
 
